@@ -7,7 +7,7 @@ A lot of students in Africa still use pen and paper to take notes during their l
 ## ui/ux design
 ![image](https://user-images.githubusercontent.com/48379399/202011819-f2ba1b9a-ed7b-4057-896d-55aca9cadfe7.png)
 ## data collection structure used with firestore
-<img width="446" alt="gcp firstore db" src="https://user-images.githubusercontent.com/16847352/203385829-e1a258d8-ffbd-4588-95ad-d8e27f7e7dd9.png">
+<img alt="gcp firstore db" src="https://user-images.githubusercontent.com/16847352/203385829-e1a258d8-ffbd-4588-95ad-d8e27f7e7dd9.png">
 
 
 
